@@ -1,7 +1,7 @@
 ﻿<html>
 
 <head>
-    <title>TechMS Plaza</title>
+    <title>TechMS Plaza - KÊNH MUA SẮM TRỰC TUYẾN HÀNG ĐẦU VIỆT NAM!</title>
     <meta charset="UTF-8" />
     <style>
         h1,
@@ -11,18 +11,21 @@
             font-family: Verdana, sans-serif;
         }
         
-        #navigation {
-            text-align: left;
+        #Name{
+            color: #f48f42;
+        }
+        #des{
+            color: #ffdab5
         }
         
         td {
             border: 1px solid white;
             padding: 20px;
+            max-width: 25%;
         }
         
         .itemImg {
-            max-width: 300px;
-            min-width: 100px;
+            max-width: 250px;
             border: 1px solid lightgrey;
             border-radius: 50%;
         }
@@ -34,66 +37,80 @@
         .itemValue::after {
             content: ".000 VND";
         }
+        .itemName:link{
+            text-decoration: none;
+            color: #008ba7;
+        }
+        .itemName:visited{
+            color: #008ba7;
+        }
+        .itemName:hover{
+            text-decoration: underline !important;
+        }
+        .itemName:active{
+            color:#f46542;
+        }
     </style>
 </head>
 
 <body>
-    <h1>TechMS Plaza</h1>
-    <h4>KÊNH MUA SẮM TRỰC TUYẾN HÀNG ĐẦU VIỆT NAM!</h4>
-    <p id="navigation">Sản phẩm bán chạy</p>
+    <h1 id="Name">TechMS Plaza</h1>
+    <h4 id="des">KÊNH MUA SẮM TRỰC TUYẾN HÀNG ĐẦU VIỆT NAM!</h4>
     <br/>
     <table>
         <tr>
             <td>
-                <img class="itemImg" src="image/small/sBag.jpg" alt="Túi sách" title="Túi sách" />
-                <p class="itemName">Túi sách</p>
+                <a href="html/bag.html"><img class="itemImg" src="image/small-image/sBag.jpg" id="bag" alt="Túi xách" title="Túi xách" /></a>
+                <a href="html/bag.html" class="itemName"><p >Túi xách</p></a>
                 <p class="itemValue">24</p>
             </td>
             <td>
-                <img class="itemImg" src="image/small/sBinh_dun_nuoc.jpg" alt="Bình đun nước" title="Bình đun nước" />
-                <p class="itemName">Bình đun nước</p>
+                <a href="html/binh_dun_nuoc.html"><img class="itemImg" src="image/small-image/sBinh_dun_nuoc.jpg" id="binh_dun_nuoc" alt="Bình đun nước" title="Bình đun nước" /></a>
+                <a href="html/binh_dun_nuoc.html" class="itemName"><p >Bình đun nước</p></a>
                 <p class="itemValue">50</p>
             </td>
             <td>
-                <img class="itemImg" src="image/small/sBo_dung_cu_lam_banh.jpg" alt="Bộ dụng cụ làm bánh" title="Bộ dụng cụ làm bánh" />
-                <p class="itemName">Bộ dụng cụ làm bánh</p>
+                <a href="html/lo_gia_vi.html"><img class="itemImg" src="image/small-image/sDung_gia_vi.jpg" id="lo_gia_vi" alt="Lọ đựng gia vị" title="Lọ đựng gia vị" /></a>
+                <a href="html/lo_gia_vi.html" class="itemName"><p >Lọ đựng gia vịs</p></a>
                 <p class="itemValue">20</p>
             </td>
             <td>
-                <img class="itemImg" src="image/small/sCamera.jpg" alt="Máy ảnh" title="Máy ảnh" />
-                <p class="itemName">Máy ảnh</p>
+                <a href="html/camera.html"><img class="itemImg" src="image/small-image/sCamera.jpg" id="camera" alt="Máy ảnh" title="Máy ảnh" /></a>
+                <a href="html/lo_gia_vi.html" class="itemName"><p >Máy ảnh</p></a>
                 <p class="itemValue">99</p>
             </td>
+            </tr>
+            <tr>
             <td>
-                <img class="itemImg" src="image/small/sCat.jpg" alt="Con mèo" title="Con mèo" />
-                <p class="itemName">Con mèo</p>
+                <a href="html/pillow.html"><img class="itemImg" src="image/small-image/sPillow.jpg" id="pillow" alt="Vỏ gối" title="Vỏ gối" /></a>
+                <a href="html/camera.html" class="itemName"><p >Vỏ gối</p></a>
                 <p class="itemValue">14</p>
             </td>
-        </tr>
-        <tr>
             <td>
-                <img class="itemImg" src="image/small/sChau_hoa.jpg" alt="Chậu hoa" title="Chậu hoa" />
-                <p class="itemName">Chậu hoa</p>
+                <a href="html/chau_hoa.html"><img class="itemImg" src="image/small-image/sChau_hoa.jpg" id="chau_hoa" alt="Chậu hoa" title="Chậu hoa" /></a>
+                <a href="html/chau_hoa.html" class="itemName"><p >Chậu hoa</p></a>
                 <p class="itemValue">340</p>
             </td>
             <td>
-                <img class="itemImg" src="image/small/sDen_ban.jpg" alt="Đèn bàn" title="Đèn bàn" />
-                <p class="itemName">Đèn bàn</p>
+                <a href="html/den_ban.html"><img class="itemImg" src="image/small-image/sDen_ban.jpg" id="den_ban" alt="Đèn bàn" title="Đèn bàn" /></a>
+                <a href="html/den_ban.html" class="itemName"><p >Đèn bàn</p></a>
                 <p class="itemValue">500</p>
             </td>
             <td>
-                <img class="itemImg" src="image/small/sHead_phone.jpg" alt="Tai nghe" title="Tai nghe" />
-                <p class="itemName">Tai nghe</p>
-                <p class="itemValue">200</p>
+                <a href="html/headphone.html"><img class="itemImg" src="image/small-image/sHeadphone.jpg" id="headphone" alt="Tai nghe" title="Tai nghe" /></a>
+                <a href="html/headphone.html" class="itemName"><p >Tai nghe</p></a>
+                <p class="itemValue">540</p>
             </td>
+            </tr>
+            <tr>
             <td>
-                <img class="itemImg" src="image/small/sKeyboard.jpg" alt="Bàn phím" title="Bàn phím" />
-                <p class="itemName">Bàn phím</p>
+                <a href="html/sneaker.html"><img class="itemImg" src="image/small-image/sSneaker.jpg" id="sneaker" alt="Giày Sneaker" title="Giày Sneaker" /></a>
+                <a href="html/sneaker.html" class="itemName"><p >Giày Sneaker</p></a>
                 <p class="itemValue">990</p>
             </td>
             <td>
-                <img class="itemImg" src="image/small/sUmbrella.jpg" alt="Ô dễ thương" title="Ô dễ thương" />
-                <p class="itemName">Ô dễ thương</p>
+                <a href="html/umbrella.html"><img class="itemImg" src="image/small-image/sUmbrella.jpg" id="Umbrella" alt="Ô dễ thương" title="Ô dễ thương" /></a>
+                <a href="html/umbrella.html" class="itemName"><p >Ô dễ thương</p></a>
                 <p class="itemValue">140</p>
             </td>
         </tr>
