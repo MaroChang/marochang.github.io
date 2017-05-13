@@ -1,0 +1,47 @@
+
+        h1,
+        h4,
+        p {
+            text-align: center;
+            font-family: Verdana, sans-serif;
+        }
+        
+        #Name{
+            color: #f48f42;
+        }
+        #des{
+            color: #ffdab5
+        }
+        
+        td {
+            border: 1px solid white;
+            padding: 20px;
+            max-width: 25%;
+        }
+        
+        .itemImg {
+            max-width: 250px;
+            border: 1px solid lightgrey;
+            border-radius: 50%;
+        }
+        
+        .itemImg:hover {
+            border: 1px solid orange;
+        }
+        
+        .itemValue::after {
+            content: ".000 VND";
+        }
+        .itemName:link{
+            text-decoration: none;
+            color: #008ba7;
+        }
+        .itemName:visited{
+            color: #008ba7;
+        }
+        .itemName:hover{
+            text-decoration: underline !important;
+        }
+        .itemName:active{
+            color:#f46542;
+        }
