@@ -16,15 +16,14 @@ Hello! I'm a Software Engineer based in Australia with a passion for continuous 
 
 ## Programming Languages
 
-#### Bash Scripts
-[Bash](bash)
+[Bash Scripts](Bash)
+[Go Lang](go)
+
+----------------------------------------------------------------
 
 #### Python
 - **Official Documentation:** [Python Docs](https://docs.python.org/3/)
 - **Tutorials:** [Real Python](https://realpython.com/), [Learn Python the Hard Way](https://learnpythonthehardway.org/)
-
-#### Golang
-- **Go:** [Go by Example](https://gobyexample.com/)
 
 #### C++
 
