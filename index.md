@@ -1,8 +1,5 @@
 [https://marochang.github.io/](https://marochang.github.io/)
 
-[Overview](index) | [Guide](guide) | [Decisions](decisions) |
-[Best practices](best-practices)
-
 # Welcome to My Personal Technical Resources
 
 ## Introduction
@@ -20,7 +17,7 @@ Hello! I'm a Software Engineer based in Australia with a passion for continuous 
 ## Programming Languages
 
 #### Bash Scripts
-[http://marochang.github.io/bash](http://marochang.github.io/bash)
+[Bash](bash)
 
 #### Python
 - **Official Documentation:** [Python Docs](https://docs.python.org/3/)
