@@ -19,14 +19,17 @@ Hello! I'm a Software Engineer based in Australia with a passion for continuous 
 
 ## Programming Languages
 
-### Python
+#### Bash Scripts
+[http://marochang.github.io/bash](http://marochang.github.io/bash)
+
+#### Python
 - **Official Documentation:** [Python Docs](https://docs.python.org/3/)
 - **Tutorials:** [Real Python](https://realpython.com/), [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 
-### Golang
+#### Golang
 - **Go:** [Go by Example](https://gobyexample.com/)
 
-### C++
+#### C++
 
 ## Tools and Utilities
 
