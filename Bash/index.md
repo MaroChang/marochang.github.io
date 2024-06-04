@@ -4,9 +4,9 @@
 ## Table of Contents
 
 #Links to the documentation
-- [1. How to run](https://marochang.github.io/bash/1.How_to_run)
-- [2. Basic script](https://marochang.github.io/bash/2.Basic_script)
-- [3. Bash script ideas](https://marochang.github.io/bash/3.Bash_script_ideas)
+- [1. How to run](https://marochang.github.io/Bash/1.How_to_run)
+- [2. Basic script](https://marochang.github.io/Bash/2.Basic_script)
+- [3. Bash script ideas](https://marochang.github.io/Bash/3.Bash_script_ideas)
 
 Bash is a command processor. It's widely used Unix shell and command language that is the default shell on many Linux distributions and macOs.
 

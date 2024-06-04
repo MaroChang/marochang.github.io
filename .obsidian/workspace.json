@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9b7a22e00f0d4e1",
+            "id": "800beaf72b63421e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "go/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5
   },
   "right": {
     "id": "32ee7cc30f6a0c0d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "go/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "go/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "go/index.md"
               }
             }
           }
@@ -146,31 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9b7a22e00f0d4e1",
+  "active": "800beaf72b63421e",
   "lastOpenFiles": [
-    "git.ignore",
-    "bash/3.Bash_script_ideas.md",
+    "Bash/index.md",
+    "Bash/2.Basic_script.md",
+    "Bash/3.Bash_script_ideas.md",
+    "Bash/1.How_to_run.md",
+    "Bash",
     "bash/index.md",
+    "bash/3.Bash_script_ideas.md",
     "bash/2.Basic_script.md",
     "bash/1.How_to_run.md",
     "bash",
-    "Bash/2.Basic_script.md",
+    "go/index.md",
+    "go",
+    "index.md",
+    "git.ignore",
     "Bash/2.Basic_Script.md",
     "Bash/2.What_is_Bash_Shell.md",
-    "Bash/1.How_to_run.md",
     "Bash/1.Basic_Script.md",
-    "Bash/3.Bash_script_ideas.md",
     "Bash/3._Bash_script_ideas.md",
     "Bash/2._Basic_Script.md",
     "Bash/1.What_is_Bash_Shell.md",
     "Bash/0.How_to_run.md",
     "Bash/index.md.md",
-    "Bash/index.md",
-    "index.md",
     "Bash/0. How to run.md",
     "Bash/1. What is Bash Shell.md",
     "Bash/2. Basic Script.md",
-    "Bash/3. Bash script ideas.md",
-    "Bash"
+    "Bash/3. Bash script ideas.md"
   ]
 }
