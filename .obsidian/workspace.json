@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ec8a7511e6c73328",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37c25fe0f56bb93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9b7a22e00f0d4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9df762b03364f14",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8caff0600a73ed6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29894635e1d94456",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d15b648040033188",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "03d646d4d722adb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32ee7cc30f6a0c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74f5b27007fec4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e92f251467b2fbd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c3baa31f76f3453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e46f9f9351396b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4eace9d42e2dff7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f9b7a22e00f0d4e1",
+  "lastOpenFiles": [
+    "Bash/2.Basic_script.md",
+    "Bash/2.Basic_Script.md",
+    "Bash/2.What_is_Bash_Shell.md",
+    "Bash/1.How_to_run.md",
+    "Bash/1.Basic_Script.md",
+    "Bash/3.Bash_script_ideas.md",
+    "Bash/3._Bash_script_ideas.md",
+    "Bash/2._Basic_Script.md",
+    "Bash/1.What_is_Bash_Shell.md",
+    "Bash/0.How_to_run.md",
+    "Bash/index.md.md",
+    "Bash/index.md",
+    "index.md",
+    "Bash/0. How to run.md",
+    "Bash/1. What is Bash Shell.md",
+    "Bash/2. Basic Script.md",
+    "Bash/3. Bash script ideas.md",
+    "Bash"
+  ]
+}
