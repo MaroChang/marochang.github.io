@@ -21,6 +21,11 @@
 
 Go, also known as Golang, is an open-source programming language designed by Google. It is statically typed, compiled, and known for its simplicity, efficiency, and concurrency support. This section covers the history, features, and advantages of using Go.
 
+Links:
+- [Go Doc learning](https://go.dev/doc/)
+- [Go dev tour](https://go.dev/tour) 
+- [Go by example](https://gobyexample.com/)
+- - [Effective Go](https://go.dev/doc/effective_go)
 ## Setting Up Your Environment
 
 Before diving into Go, you need to set up your development environment. This section provides step-by-step instructions to install Go on different operating systems and configure your IDE for a smooth coding experience.

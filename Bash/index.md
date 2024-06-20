@@ -3,7 +3,6 @@
 
 ## Table of Contents
 
-#Links to the documentation
 - [1. How to run](https://marochang.github.io/Bash/1.How_to_run)
 - [2. Basic script](https://marochang.github.io/Bash/2.Basic_script)
 - [3. Bash script ideas](https://marochang.github.io/Bash/3.Bash_script_ideas)

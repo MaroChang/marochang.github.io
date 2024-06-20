@@ -16,8 +16,8 @@ Hello! I'm a Software Engineer based in Australia with a passion for continuous 
 
 ## Programming Languages
 
-[Bash Scripts](Bash)
-[Go Lang](go)
+- [Bash Scripts](Bash)
+- [Go Lang](go)
 
 ----------------------------------------------------------------
 
